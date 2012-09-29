@@ -5,7 +5,7 @@
 package sql
 
 import (
-	"database/sql/driver"
+	"github.com/titanous/go-backports/database/sql/driver"
 	"fmt"
 	"reflect"
 	"testing"
